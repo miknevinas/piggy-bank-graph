@@ -1,0 +1,25 @@
+body {
+    background-image: url("wood_1.png")
+}
+
+circle {
+    stroke: #fff;
+    width: 5px;
+    height: 5px;
+}
+
+#chart1 {
+    background-image: url("http://www.clker.com/cliparts/7/f/5/3/1317924054765673693Pig Outline.svg.hi.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
+#chart2 {
+    background-image: url("http://www.clker.com/cliparts/7/f/5/3/1317924054765673693Pig Outline.svg.hi.png");
+    background-repeat: no-repeat;
+    float: right;
+}
+
+container {
+    display: flex
+}
